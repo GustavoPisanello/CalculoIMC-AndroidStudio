@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculo-IMC</string>
+    <string name="numPeso">Digite seu Peso</string>
+    <string name="numAlt">Digite sua Altura</string>
+    <string name="rbMasc">Masculino</string>
+    <string name="rbFem">Feminino</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="result">Resultado</string>
+</resources>
